@@ -2,21 +2,24 @@
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
-
 <h1 align="center">Hi 👋, I'm SHIV KUMAR RATHORE</h1>
 <h3 align="center">A passionate Algo-Developer, Ex-webdeveloper from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanium-git&label=Profile%20views&color=0e75b6&style=flat" alt="shivanium-git" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanium-git" alt="shivanium-git" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/shivanium_" target="blank"><img src="https://img.shields.io/twitter/follow/shivanium_?logo=twitter&style=for-the-badge" alt="shivanium_" /></a> </p>
 
 - 🔭 I’m currently working on **QUANT- DEVELOPER**
 
 - 💬 Ask me about **Stock market, Option Strategy**
 
 - 📫 How to reach me **shivrathore223@gmail.com**
-  
--  😄 Pronouns: SHIV, CODER.
-  
--  - ⚡ Fun fact: I play games and go to the GYM very often.
 
-- 📄 Know about my experiences <code><a href=[https://drive.google.com/file/d/1E_MRMmY0MPaNIfWboDCFan6traPMmDDk/view?usp=sharing](https://drive.google.com/file/d/1E_MRMmY0MPaNIfWboDCFan6traPMmDDk/view?usp=sharing)></a>MY <code>
+- 
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1E_MRMmY0MPaNIfWboDCFan6traPMmDDk/view?usp=sharing](https://drive.google.com/file/d/1E_MRMmY0MPaNIfWboDCFan6traPMmDDk/view?usp=sharing" target="blank"><img align="center" src="https://icons8.com/icon/45593/applicant" alt="shivanium_" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +31,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanium-git&show_icons=true&locale=en&layout=compact" alt="shivanium-git" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanium-git&show_icons=true&locale=en&layout=compact" alt="shivanium-git" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanium-git&show_icons=true&locale=en" alt="shivanium-git" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanium-git&" alt="shivanium-git" /></p>
