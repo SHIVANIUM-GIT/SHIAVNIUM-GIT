@@ -1,4 +1,8 @@
 # SHIAVNIUM-GIT
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <br><br>
+
 <h1 align="center">Hi 👋, I'm SHIV KUMAR RATHORE</h1>
 <h3 align="center">A passionate Algo-Developer, Ex-webdeveloper from India</h3>
 
@@ -7,8 +11,12 @@
 - 💬 Ask me about **Stock market, Option Strategy**
 
 - 📫 How to reach me **shivrathore223@gmail.com**
+  
+-  😄 Pronouns: SHIV, CODER.
+  
+-  - ⚡ Fun fact: I play games and go to the GYM very often.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E_MRMmY0MPaNIfWboDCFan6traPMmDDk/view?usp=sharing](https://drive.google.com/file/d/1E_MRMmY0MPaNIfWboDCFan6traPMmDDk/view?usp=sharing)
+- 📄 Know about my experiences <code><a href=[https://drive.google.com/file/d/1E_MRMmY0MPaNIfWboDCFan6traPMmDDk/view?usp=sharing](https://drive.google.com/file/d/1E_MRMmY0MPaNIfWboDCFan6traPMmDDk/view?usp=sharing)></a>MY <code>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
