@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Shiv Rathore an Ex-Full Stack Web Developer and an Algo Developer. I Spend most of my time coding outstanding projects and learning new things.<br><br>-🔭 I’m currently working on MYSELF (Ds-Algo).<br>-💻 Most used line of code git commit -m "Initial Commit"<br>-🤔 I’m looking for more open-source projects.<br>-📫 How to reach me:  shivrathore223@gmail.com.<br>-😄 Pronouns: CoderOne, Rishab, Shiv.<br>-⚡ Fun fact: I play games and go to the GYM very often.</p>
+<p align="left">I'm Shiv Rathore an Ex-Full Stack Web Developer and an Algo Developer. I Spend most of my time coding outstanding projects and learning new things.<br><br>-🔭 I’m currently working on MYSELF (Ds-Algo).<br>-💻 Most used line of code git commit -m "Initial Commit"<br>-🤔 I’m looking for more open-source projects.<br>-📫 How to reach me:  **shivrathore223@gmail.com**.<br>-😄 Pronouns: CoderOne, Rishab, Shiv.<br>-⚡ Fun fact: I play games and go to the GYM very often.</p>
 
 ###
 
