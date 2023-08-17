@@ -1,7 +1,5 @@
 # SHIAVNIUM-GIT
-<p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-  <br><br>
+
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
@@ -18,7 +16,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Shiv Rathore a Ex-Full Stack Web Developer and a Algo Developer. I Spend most of my time coding outstanding projects and learning new things.<br><br>-🔭 I’m currently working on MYSELF (Ds-Algo).<br>-💻 Most used line of code git commit -m "Initial Commit"<br>-🤔 I’m looking for more open-source projects.<br>-📫 How to reach me:  shivrathore223@gmail.com.<br>-😄 Pronouns: CoderOne, Rishab, Shiv.<br>-⚡ Fun fact: I play games and go to the GYM very often.</p>
+<p align="left">I'm Shiv Rathore an Ex-Full Stack Web Developer and an Algo Developer. I Spend most of my time coding outstanding projects and learning new things.<br><br>-🔭 I’m currently working on MYSELF (Ds-Algo).<br>-💻 Most used line of code git commit -m "Initial Commit"<br>-🤔 I’m looking for more open-source projects.<br>-📫 How to reach me:  shivrathore223@gmail.com.<br>-😄 Pronouns: CoderOne, Rishab, Shiv.<br>-⚡ Fun fact: I play games and go to the GYM very often.</p>
 
 ###
 
