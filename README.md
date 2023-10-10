@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [SHIVANIUM-GIT](https://github.com/SHIVANIUM-GIT)
 
-- 💬 Ask me about **Web developer, Stock market, Quant developer,Algo trading .**
+- 💬 Ask me about **Web developer, Stock market, Quant developer, Algo trading .**
 
 - 📫 How to reach me **shivrathore223@gmail.com**
 
