@@ -1,7 +1,9 @@
 # SHIAVNIUM-GIT
 
- <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" >
-  <br><br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+</div>
 
 <h1 align="center">Hi 👋, I'm SHIV KUMAR RATHORE</h1>
 <h3 align="center">A passionate ALGO-Developer and Ex-Full stack Developer from India.</h3><br>
