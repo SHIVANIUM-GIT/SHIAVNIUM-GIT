@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm SHIV KUMAR RATHORE</h1>
-<h3 align="center">A passionate ALGO-Developer and Ex-Full stack Developer from India.</h3><br>
+<h3 align="center">A passionate DevOps Engineer, ALGO-Developer, and Ex-Full Stack Developer from India.</h3><br>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
 
 - 🔭 I’m currently working on MYSELF (Ds-Algo).<br>
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [SHIVANIUM-GIT](https://github.com/SHIVANIUM-GIT)
 
-- 💬 Ask me about **Web developer, Stock market, Quant developer, Algo trading .**
+- 💬 Ask me about DevOps, Web Development, Stock Market, Quant Development, and Algo Trading.
 
 - 📫 How to reach me **shivrathore223@gmail.com**
 
@@ -28,43 +28,19 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="40" alt="typescript logo"  />
-  <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/00599C" height="40" alt="html5 logo"  />
-  <img src="https://cdn.simpleicons.org/react/00599C" height="40" alt="html5 logo"  />
-  <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/E34F26" height="40" alt="html5 logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-
+<div align="center"> -->
+    <h3>Languages</h3>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,go,javascript,bash,rust,nodejs,html,css" height="40" />
+    <h3>Databases</h3>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,QuestDB" height="40" />
+    <h3>DevOps Tools</h3>
+    <img src="https://skillicons.dev/icons?i=docker,git,kubernetes,jenkins,prometheus,grafana,ansible,terraform,githubactions,gitlab" height="40" />
+    <h3>Cloud Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="40" />
+    <h3>Other Tools</h3>
+    <img src="https://skillicons.dev/icons?i=linux,vim,vscode" height="40" />
 </div>
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -96,3 +72,4 @@
 </div>
 
 ###
+
