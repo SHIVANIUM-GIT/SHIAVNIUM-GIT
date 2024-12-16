@@ -32,7 +32,7 @@
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=python,c,cpp,go,javascript,bash,rust,nodejs,html,css" height="40" />
     <h3>Databases</h3>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,QuestDB" height="40" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40" />
     <h3>DevOps Tools</h3>
     <img src="https://skillicons.dev/icons?i=docker,git,kubernetes,jenkins,prometheus,grafana,ansible,terraform,githubactions,gitlab" height="40" />
     <h3>Cloud Platforms</h3>
