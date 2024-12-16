@@ -28,7 +28,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-<div align="center"> -->
+<div align="center"> 
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=python,c,cpp,go,javascript,bash,rust,nodejs,html,css" height="40" />
     <h3>Databases</h3>
