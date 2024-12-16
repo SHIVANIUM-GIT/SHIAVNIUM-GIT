@@ -72,6 +72,3 @@
 </div>
 
 ###
-
-
-(https://go-skill-icons.vercel.app/api/icons?i=rust,argocd,helm&titles=true)
